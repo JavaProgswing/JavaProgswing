@@ -1,4 +1,5 @@
 ![JavaProgswing's GitHub stats](https://github-readme-stats.vercel.app/api?username=JavaProgswing&show_icons=true&theme=slateorange)
+- 🔭 I’m currently working on java automation.
 
 <!--
 **JavaProgswing/JavaProgswing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
