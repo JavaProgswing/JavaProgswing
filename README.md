@@ -42,6 +42,9 @@ _Click the icon to see my profile_
  ### Databases
 
 ![PostgresDb](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+</details>
+
+---
 
 <details>
 <summary>
