@@ -10,7 +10,7 @@
   <b>Social media links!</b>
 </summary>
 
-_Click the icon to see my profile_
+Youtube - 
 <a href="https://www.youtube.com/channel/UCjgieD78nflSiRRXQww6wzw">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"  alt="YouTube logo"/>
 <a>
