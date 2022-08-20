@@ -38,6 +38,11 @@ _Click the icon to see my profile_
 ![Html](http://img.shields.io/badge/-Html-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Css](http://img.shields.io/badge/-Css-1572B6?style=flat-square&logo=css3&logoColor=white)
  Assembly x86 
+ 
+ ### Databases
+
+![PostgresDb](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 <details>
 <summary>
   <b>Stats</b>
