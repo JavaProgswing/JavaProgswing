@@ -1,3 +1,40 @@
+# Heya I'm JavaProgswing!
+
+![followers](https://img.shields.io/github/followers/JavaProgswing?style=social)
+![stars](https://img.shields.io/github/stars/JavaProgswing?style=social)
+![views](https://komarev.com/ghpvc/?username=JavaProgswing&color=blueviolet)
+
+
+<details>
+<summary>
+  <b>Social media links!</b>
+</summary>
+
+_Click the icon to see my profile_
+<a href="https://www.youtube.com/channel/UCjgieD78nflSiRRXQww6wzw">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"  alt="YouTube logo"/>
+<a>
+</details>
+
+---
+
+<details>
+<summary>
+  <b>Currently knowledged on</b>
+</summary>
+
+### Languages
+
+#### Programming languages
+
+![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C#](http://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+
+#### Other languages
+
+![Html](http://img.shields.io/badge/-Html-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Css](http://img.shields.io/badge/-Css-1572B6?style=flat-square&logo=css3&logoColor=white)
 <details>
 <summary>
   <b>Stats</b>
@@ -18,6 +55,6 @@
 </div>
 
 </details>
-![JavaProgswing's GitHub stats](https://github-readme-stats.vercel.app/api?username=JavaProgswing&show_icons=true&theme=slateorange)
+
 - 🔭 I’m currently working on java automation.
 
