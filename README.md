@@ -31,11 +31,13 @@ _Click the icon to see my profile_
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ 
 
 #### Other languages
 
 ![Html](http://img.shields.io/badge/-Html-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Css](http://img.shields.io/badge/-Css-1572B6?style=flat-square&logo=css3&logoColor=white)
+ Assembly x86 
 <details>
 <summary>
   <b>Stats</b>
