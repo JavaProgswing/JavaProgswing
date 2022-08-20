@@ -64,6 +64,3 @@
 </div>
 
 </details>
-
-- 🔭 I’m currently working on java automation.
-
