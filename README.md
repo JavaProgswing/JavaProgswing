@@ -1,4 +1,4 @@
-# Heya I'm JavaProgswing!
+# Hey I'm JavaProgswing!
 
 ![followers](https://img.shields.io/github/followers/JavaProgswing?style=social)
 ![stars](https://img.shields.io/github/stars/JavaProgswing?style=social)
