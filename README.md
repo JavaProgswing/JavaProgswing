@@ -3,7 +3,7 @@
 ![followers](https://img.shields.io/github/followers/JavaProgswing?style=social)
 ![stars](https://img.shields.io/github/stars/JavaProgswing?style=social)
 ![views](https://komarev.com/ghpvc/?username=JavaProgswing&color=blueviolet)
-<img src="https://moe-counter.glitch.me/get/@JavaProgswing?theme=asoul" alt="profile view counter"/>
+<img src="https://moe-counter.glitch.me/get/@JavaProgswing?theme=asoul" />
 <summary>
   <b>Stats</b>
 </summary>
