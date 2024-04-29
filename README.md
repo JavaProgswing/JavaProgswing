@@ -4,7 +4,6 @@
 ![views](https://komarev.com/ghpvc/?username=JavaProgswing&color=blueviolet)
 
 Recent views:
-<img src="https://moe-counter.glitch.me/get/@JavaProgswing?theme=asoul" />
 <summary>
   <b>Stats</b>
 </summary>
