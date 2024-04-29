@@ -1,9 +1,8 @@
 # Hey I'm JavaProgswing!
 ![followers](https://img.shields.io/github/followers/JavaProgswing?style=social)
 ![stars](https://img.shields.io/github/stars/JavaProgswing?style=social)
-![views](https://komarev.com/ghpvc/?username=JavaProgswing&color=blueviolet)
 
-Recent views:
+Recent views: ![views](https://komarev.com/ghpvc/?username=JavaProgswing&color=blueviolet)
 <summary>
   <b>Stats</b>
 </summary>
