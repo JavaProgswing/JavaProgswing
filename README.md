@@ -1,61 +1,55 @@
-# Hey I'm JavaProgswing!
+---
+# Yashasvi Allen Kujur
 ![followers](https://img.shields.io/github/followers/JavaProgswing?style=social)
 ![stars](https://img.shields.io/github/stars/JavaProgswing?style=social)
+![views](https://komarev.com/ghpvc/?username=JavaProgswing&color=blueviolet)
 
-Recent views: ![views](https://komarev.com/ghpvc/?username=JavaProgswing&color=blueviolet)
-<summary>
-  <b>Stats</b>
-</summary>
+Hi, I’m a passionate tech enthusiast, curious to learn new frameworks and research bugs/exploits in software.<br>
+Java is my primary language, and I am curious about making projects that automate/ease daily tasks or make our lives more fun.
 
-<div>
-
-<span><img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=javaprogswing&theme=github_dark&show_icons=true" alt="Stats -- Something went wrong!" /></span>
-<span><img width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javaprogswing&theme=github_dark&langs_count=10" alt="Most used languages -- Something went wrong!" /></span>
-</div>
-
-### Including private contributions
-
-<div>
-<span><img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=javaprogswing&theme=github_dark&show_icons=true&count_private=true"  alt="Private stats -- Something went wrong!"/></span>
-</div>
-
-<div>
-<span><img width="500px" height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=JavaProgswing"  alt="Commit stats -- Something went wrong!"/></span>
-</div>
-
-<details>
-<summary>
-  <b>Social media links!</b>
-</summary>
-<a href="https://www.youtube.com/channel/UCjgieD78nflSiRRXQww6wzw">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"  alt="YT"/>
-<a>
-</details>
+- Currently working on: Hobby Projects + FinTech/AI-ML Based Projects
+- Goals: Collaborating on **AI/ML based projects** 
+- Learning: Low level programming, Reverse engineering
+- Ask me about anything.  
+- Reach me: [LinkedIn](https://www.linkedin.com/in/yashasvi-allen-kujur-ba5a1533b/) • [LeetCode](https://leetcode.com/u/rn9wWX2KZ1/) • [Youtube](https://www.youtube.com/channel/UCjgieD78nflSiRRXQww6wzw)
 
 ---
 
-<details>
-<summary>
-  <b>Currently knowledged on</b>
-</summary>
+## Tech Stack
 
-### Languages
+**Languages:**  
 
-#### Programming languages
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
- 
+**Frameworks:**  
 
-#### Other languages
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 
-![Html](http://img.shields.io/badge/-Html-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Css](http://img.shields.io/badge/-Css-1572B6?style=flat-square&logo=css3&logoColor=white)
- Assembly x86 
- 
- ### Databases
+**Tools/Misc:**  
 
-![PostgresDb](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-</details>
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+---
+
+## GitHub Stats
+
+![Stats- Something went wrong!](https://github-readme-stats.vercel.app/api?username=JavaProgswing&theme=github_dark&show_icons=true&count_private=true)  
+
+![Top Languages- Something went wrong!](https://github-readme-stats.vercel.app/api/top-langs/?username=JavaProgswing&theme=github_dark&langs_count=10)
+
+---
+
+## GitHub Trophies
+![Trophy- Something went wrong!](https://github-profile-trophy.vercel.app/?username=JavaProgswing&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+---
