@@ -11,7 +11,8 @@ Java is my primary language, and I am curious about making projects that automat
 - Goals: Collaborating on **AI/ML based projects** 
 - Learning: Low level programming, Reverse engineering
 - Ask me about anything.  
-- Reach me: [LinkedIn](https://www.linkedin.com/in/yashasvi-allen-kujur-ba5a1533b/) • [LeetCode](https://leetcode.com/u/rn9wWX2KZ1/) • [Youtube](https://www.youtube.com/channel/UCjgieD78nflSiRRXQww6wzw)
+- Reach me: [Discord](https://discord.com/users/625265223250608138) • [LinkedIn](https://www.linkedin.com/in/yashasvi-allen-kujur-ba5a1533b/)
+  - Other(s): [LeetCode](https://leetcode.com/u/rn9wWX2KZ1/) • [Youtube](https://www.youtube.com/channel/UCjgieD78nflSiRRXQww6wzw)
 
 ---
 
