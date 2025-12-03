@@ -9,14 +9,14 @@ Recent views: ![views](https://komarev.com/ghpvc/?username=JavaProgswing&color=b
 
 <div>
 
-<span><img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=javaprogswing&theme=github_dark&show_icons=true" alt="Stats JavaProgswing on Github" /></span>
-<span><img width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javaprogswing&theme=github_dark&langs_count=10" alt="Most used languages JavaProgswing on Github" /></span>
+<span><img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=javaprogswing&theme=github_dark&show_icons=true" alt="Stats -- Something went wrong!" /></span>
+<span><img width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javaprogswing&theme=github_dark&langs_count=10" alt="Most used languages -- Something went wrong!" /></span>
 </div>
 
 ### Including private contributions
 
 <div>
-<span><img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=javaprogswing&theme=github_dark&show_icons=true&count_private=true"  alt="GitHub Stats including all private contributions"/></span>
+<span><img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=javaprogswing&theme=github_dark&show_icons=true&count_private=true"  alt="Private stats -- Something went wrong!"/></span>
 </div>
 
 
