@@ -9,23 +9,26 @@ Recent views: ![views](https://komarev.com/ghpvc/?username=JavaProgswing&color=b
 
 <div>
 
-<span><img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=javaprogswing&theme=github_dark&show_icons=true" alt="Stats -- Something went wrong!" /></span>
-<span><img width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javaprogswing&theme=github_dark&langs_count=10" alt="Most used languages -- Something went wrong!" /></span>
+<span><img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=javaprogswing&theme=github_dark&show_icons=true" alt="  Stats -- Something went wrong!" /></span>
+<span><img width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javaprogswing&theme=github_dark&langs_count=10" alt="  Most used languages -- Something went wrong!" /></span>
 </div>
 
 ### Including private contributions
 
 <div>
-<span><img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=javaprogswing&theme=github_dark&show_icons=true&count_private=true"  alt="Private stats -- Something went wrong!"/></span>
+<span><img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=javaprogswing&theme=github_dark&show_icons=true&count_private=true"  alt="  Private stats -- Something went wrong!"/></span>
 </div>
 
+<div>
+https://github-readme-activity-graph.vercel.app/graph?username=JavaProgswing
+</div>
 
 <details>
 <summary>
   <b>Social media links!</b>
 </summary>
 <a href="https://www.youtube.com/channel/UCjgieD78nflSiRRXQww6wzw">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"  alt="YouTube logo"/>
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"  alt="YT"/>
 <a>
 </details>
 
