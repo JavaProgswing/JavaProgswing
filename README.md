@@ -65,4 +65,6 @@ engineering on top.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JavaProgswing&theme=github_dark&langs_count=10&layout=compact)
 
+<!--
 ![Trophies](https://github-profile-trophy.vercel.app/?username=JavaProgswing&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+-->
