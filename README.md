@@ -17,43 +17,6 @@ engineering on top.
 
 ---
 
-## Featured projects
-
-**[Valorant Narrator](https://github.com/JavaProgswing/valorantnarratorOPS)** — reads Valorant text
-chat and speaks it on team voice in real time.
-`Java 21` · `JavaFX` · C# screen-OCR sidecar (`.NET 9`, Windows.Graphics.Capture) · local TTS in
-Python (`NeuTTS Air`/`llama.cpp`, formerly `Coqui XTTS-v2`) · `AWS Polly` · backend on `FastAPI` +
-`Supabase` + `Vercel`.
-
-**[under-the-hood](https://github.com/JavaProgswing/under-the-hood)** — long-form architecture
-teardowns of my own projects (how they evolved, what broke, what I'd do differently).
-
-**[Aestron](https://github.com/JavaProgswing/Aestron)** — full-feature Discord bot (moderation,
-music, leveling, tickets, Valorant stats).
-`Python` · `discord.py` · `Wavelink`/`Lavalink` · `PostgreSQL` · `FastAPI` product site.
-
-**[rag-n8n-spring-platform](https://github.com/JavaProgswing/rag-n8n-spring-platform)** —
-production-style RAG platform.
-`Spring Boot` · `n8n` · `pgvector` · `MongoDB` · `Redis` · `Ollama` · GitHub Actions.
-
-**[cineguide-rag](https://github.com/JavaProgswing/cineguide-rag)** — evaluated movie-discovery RAG
-with hybrid retrieval, grounded answers, and monitoring. `Python` · hybrid retrieval · eval harness.
-
-**[jailbreaker-llm](https://github.com/JavaProgswing/jailbreaker-llm)** — LLM-vs-LLM automated
-red-teaming research platform (fine-tuned attacker vs. a target model). `Python` · `PyTorch`.
-
-**[aula-f75](https://github.com/JavaProgswing/aula-f75)** — reverse-engineered USB-HID protocol for
-a wireless keyboard: keymap read/write, no official SDK. `Python` · `hidapi`.
-
-**[Claimify](https://github.com/JavaProgswing/Claimify)** — evidence-based claim verification.
-`Firecrawl` · local `NLI` model · web app + browser extension.
-
-More, including tooling (`github-summarizer`, `voice-studio`, `spotify-manager`, `wifi-walk-survey`)
-and the ML course set, is indexed in
-[under-the-hood](https://github.com/JavaProgswing/under-the-hood#project-index).
-
----
-
 ## Tech Stack
 
 **Languages**
