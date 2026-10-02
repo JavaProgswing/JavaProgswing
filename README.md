@@ -9,8 +9,8 @@ works underneath — frameworks, protocols, and the occasional bug/exploit. Java
 language; most of my projects pair a desktop or backend core with some ML, automation, or reverse
 engineering on top.
 
-- Currently building: hobby projects + AI/ML and FinTech-leaning apps
-- Interested in: low-level programming, reverse engineering, applied ML
+- Currently building: software development + AI/ML apps
+- Interested in: low-level programming, applied ML, competitive programming
 - Open to: collaborating on **AI/ML projects**
 - Reach me: [Discord](https://discord.com/users/625265223250608138) • [LinkedIn](https://www.linkedin.com/in/yashasvi-allen-kujur-ba5a1533b/)
   - Also: [LeetCode](https://leetcode.com/u/rn9wWX2KZ1/) • [YouTube](https://www.youtube.com/channel/UCjgieD78nflSiRRXQww6wzw)
